@@ -10,4 +10,4 @@ I looked at X,Y,Z
 
 ## My notebook
 
-* [Run my colab notebook] ()
+* [Run my colab notebook] (https://github.com/amzad-786githumb/DataScience_Demo/blob/main/Data_sciene_notebook.ipynb)
